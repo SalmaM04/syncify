@@ -30,8 +30,6 @@ Time spent: **12** hours spent in total
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
-
 ![Demo](https://github.com/SalmaM04/syncify/blob/main/demo.gif?raw=true)
 
 ## Notes
@@ -42,7 +40,7 @@ Describe any challenges encountered while building the app:
 
 ## License
 
-    Copyright [2025] [Your Name]
+    Copyright [2025] [Salma Mohammad]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
